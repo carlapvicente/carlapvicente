@@ -10,7 +10,7 @@ Formada em Engenharia da Computação e apaixonada pela cultura DevOps.
 
 <img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlapvicente&hide=html&layout=compact&theme=buefy" />  
 
-<td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=carlapvicente&theme=buefy"/>  
+<td><img width="495px" align="right" src="https://github-readme-stats.vercel.app/api?username=carlapvicente&theme=buefy"/>  
 
 <!--
 **carlapvicente/carlapvicente** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
