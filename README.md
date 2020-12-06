@@ -8,6 +8,10 @@ Formada em Engenharia da Computação e apaixonada pela cultura DevOps.
 - ⚡ Gosto de videogames para relaxar a mente ^_^
     - Atualmente estou jogando Forza Horizon 4, Animal Crossing New Horizons e os pacotes da franquia lego \o/
 
+<img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlapvicente&hide=html&layout=compact&theme=buefy" />  
+
+<td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=carlapvicente&theme=buefy"/>  
+
 <!--
 **carlapvicente/carlapvicente** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
