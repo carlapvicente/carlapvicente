@@ -3,10 +3,10 @@
 
 Formada em Engenharia da Computação e apaixonada pela cultura DevOps.
 
-- 🔭 Atualmente trabalho com Sys Admin na [Wolters Kluwer Brasil](https://www.wolterskluwer.com.br/)
-- 🌱 Cursando o bootcamp de Engenheiro(a) de Software Ágil pela [IGTI](https://www.igti.com.br/)
+- 🔭 Atualmente trabalho com Sys Admin
+- 🌱 Cursando o MBA de Engenharia de Software Ágil pela [IGTI](https://www.igti.com.br/)
 - ⚡ Gosto de videogames para relaxar a mente ^_^
-    - Atualmente estou jogando Forza Horizon 4, Animal Crossing New Horizons e os pacotes da franquia lego \o/
+    
 
 <center>
 <table>
