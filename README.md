@@ -6,7 +6,7 @@
 
 ---
 
-### Sobre mim
+## Sobre mim
 
 Sou apaixonada por tecnologia, amo transformar ambientes complexos em pipelines simples, automatizados e seguros. Com foco em DevOps e Azure DevOps, atuo criando soluções escaláveis, seguras e elegantes e ainda arranjo tempo pra compartilhar conhecimento com o time através de workshops internos na empresa onde atuo, porque acredito que conhecimento só vale quando é multiplicado!
 
@@ -19,7 +19,7 @@ Curiosidades rápidas:
 
 ---
 
-### 🛠️ Tecnologias & Ferramentas
+## 🛠️ Tecnologias & Ferramentas
 
 <div align="center">
 
@@ -47,31 +47,38 @@ Curiosidades rápidas:
 
 ---
 
-### 📂 Projetos em Destaque
+## 📂 Projetos em Destaque
 
-> **[Template Studies](https://github.com/carlapvicente/template-studies)**  
-> *Template para trilhas de estudo práticas com foco em DevOps.*
->
-> Desenvolvi este projeto open-source utilizando **Eleventy (SSG)**, **Sass** e **JavaScript**. Ele serve como base para criar cursos interativos com funcionalidades como:
-> - ✅ Rastreamento de progresso (Local Storage)
-> - 🏆 Sistema de Quizzes e Desafios
-> - 📜 Geração automática de certificados em PDF
-> - 🎨 Design System customizável
->
-> <div align="center">
->   <img src="assets/template-studies.png" alt="Demonstração do Template Studies" width="700px">
-> </div>
+### 📚 [Template Studies](https://github.com/carlapvicente/template-studies)
+*Template para trilhas de estudo práticas com foco em DevOps.*
 
+Desenvolvi este projeto open-source utilizando **Eleventy (SSG)**, **Sass** e **JavaScript**. Ele serve como base para criar cursos interativos com funcionalidades como:
+- ✅ Rastreamento de progresso (Local Storage)
+- 🏆 Sistema de Quizzes e Desafios
+- 📜 Geração automática de certificados em PDF
+- 🎨 Design System customizável
+
+<div align="center">
+  <img src="assets/template-studies.png" alt="Demonstração do Template Studies" width="700px">
+</div>
+
+### 🐧 [Linux IaC - Automação de Infraestrutura](https://github.com/carlapvicente/linux-fundamentals-dio)
+*Script robusto em Shell Script para provisionamento automatizado de usuários, grupos e diretórios com foco em segurança.*
+
+* 🛡️ **Segurança Avançada:** Implementação e validação automatizada de **SGID** e **Sticky Bit**.
+* 📝 **Monitoramento:** Sistema de logs persistentes com auditoria em tempo real via `tee`.
+* ⚙️ **DevOps Mindset:** Código modular com tratamento de exceções, validação de root e interface amigável.
+* 🎥 **Demonstração:** Documentação completa com guia visual de execução no README.
 ---
 
-### ✨ Em breve
+## ✨ Em breve
 
 - Experimentos com ferramentas como Terraform e Docker
 - Scripts e utilitários desenvolvidos em PowerShell e Python
 
 ---
 
-### 🤝 Vamos nos conectar?
+## 🤝 Vamos nos conectar?
 
 <div align="center">
   <p>Sinta-se à vontade para abrir uma issue ou me chamar no LinkedIn.<br>Quem sabe a gente não constrói algo incrível juntas(os)?</p>
