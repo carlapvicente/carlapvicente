@@ -71,7 +71,7 @@ Alguns princípios que guiam meu trabalho::
 <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" />
 </div>
 
------>
+---
 
 ## 📊 GitHub Stats
 
@@ -83,7 +83,7 @@ Alguns princípios que guiam meu trabalho::
 
 </div>
 
----
+----->
 
 ## 📂 Projetos em Destaque
 
@@ -95,9 +95,9 @@ Alguns princípios que guiam meu trabalho::
 
 🔗 Repository: https://github.com/carlapvicente/template-studies
 
-Stack      | Eleventy (SSG) • JavaScript • Sass  
-Type       | Static Learning Platform  
-Focus      | DevOps Education • Technical Learning Paths
+Stack: Eleventy (SSG) • JavaScript • Sass  
+Type: Static Learning Platform  
+Focus: DevOps Education • Technical Learning Paths
 
 Template open-source criado para estruturar **trilhas de estudo técnicas e laboratórios práticos** de forma interativa e leve.
 
@@ -122,9 +122,9 @@ A plataforma permite organizar conteúdos progressivos para áreas como **Linux,
 
 🔗 Repository: https://github.com/carlapvicente/linux-fundamentals-dio
 
-Stack      | Bash • Linux • System Administration  
-Type       | Infrastructure Automation Script  
-Focus      | Secure provisioning of users and permissions
+Stack: Bash • Linux • System Administration  
+Type: Infrastructure Automation Script  
+Focus: Secure provisioning of users and permissions
 
 Script desenvolvido para **automatizar o provisionamento de usuários, grupos e diretórios em ambientes Linux**, aplicando boas práticas de segurança e administração de sistemas.
 
